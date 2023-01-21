@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Habits TESTE</h1>
 
 <p align="center">
 A primeira NLW SETUP que participei, evento promovido pela RocketSeat para ensino de tecnologias WEB. <br/>
